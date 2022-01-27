@@ -45,7 +45,8 @@ src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rukensancar&layout=compact&hide=html" alt="rukensancar" />
 </details>
 
-
+<div  align="center"> <img src="https://github.com/rukensancar/rukensancar/blob/output/github-contribution-grid-snake.svg" /></div>
+  
 <!--
 **rukensancar/RukenSancar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
